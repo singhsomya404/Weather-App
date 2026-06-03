@@ -12,7 +12,7 @@ Project Name:Weather App using Python Tkinter
 
 Project Scope:
 
-This project is a GUI-based weather application developed using Python. The application allows users to enter a city name and fetch live weather information using an online weather API.
+The Weather App is a simple desktop application developed using Python and Tkinter. It provides weather information for selected cities through an interactive graphical user interface. Users can enter a city name and view details such as temperature, weather condition, humidity, and wind speed.
 
 Features:
 
