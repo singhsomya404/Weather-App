@@ -20,8 +20,6 @@ GUI interface using Tkinter
 
 User-friendly design
 
-Fetches live weather data
-
 Displays weather details instantly
 
 
@@ -33,8 +31,6 @@ Tkinter
 
 Requests Library
 
-wttr.in API
-
 VS Code
 
 
@@ -43,8 +39,6 @@ Files Included:
 weather.py
 
 README.md
-
-requirements.txt
 
 Screenshots
 
